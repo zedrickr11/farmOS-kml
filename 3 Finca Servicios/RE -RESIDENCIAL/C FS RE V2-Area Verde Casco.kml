@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark id="2FB27027CC126C57A5D9">
+      <name>C FS RE V2-Area Verde Casco</name>
+      <styleUrl>#msn_ylw-pushpin305</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13158889654115,14.5299943290178,0 -91.13158833855032,14.52988438916328,0 -91.13157852774475,14.5298629184074,0 -91.13149664474882,14.52984972630305,0 -91.13143999284216,14.5298402895325,0 -91.13131003873669,14.52982192358085,0 -91.1312593126015,14.53048760014685,0 -91.13133081274528,14.53049387625174,0 -91.13157752077626,14.53049077333626,0 -91.13158889654115,14.5299943290178,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

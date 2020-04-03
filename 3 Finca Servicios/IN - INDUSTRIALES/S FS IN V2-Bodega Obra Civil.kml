@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark id="06A7ED3277126C57A5DF">
+      <name>S FS IN V2-Bodega Obra Civil</name>
+      <styleUrl>#msn_ylw-pushpin30</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13158613549504,14.52985245592095,0 -91.1315914867379,14.52974309283753,0 -91.13142766381108,14.52972213591808,0 -91.13141561508166,14.52983336226112,0 -91.13158613549504,14.52985245592095,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

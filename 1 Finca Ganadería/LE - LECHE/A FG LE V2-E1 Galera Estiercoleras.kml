@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>A FG LE V2-E1 Galera Estiercoleras</name>
+      <styleUrl>#msn_ylw-pushpin6211</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13339830184952,14.53292521968037,0 -91.13335088593449,14.5329218703427,0 -91.13333584141421,14.53300485886287,0 -91.1333726958825,14.53300571439143,0 -91.13338355098402,14.53315868790737,0 -91.13340830500175,14.53315363681758,0 -91.13339581205292,14.53300220197938,0 -91.13339830184952,14.53292521968037,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

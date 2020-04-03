@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>A FG SL V2-E1 Silo de suelo 1</name>
+      <styleUrl>#msn_ylw-pushpin62100</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13305091142908,14.53207352766724,0 -91.13303600899454,14.5322804317657,0 -91.13318816238228,14.53228659540033,0 -91.13320064114185,14.53208759798256,0 -91.13305091142908,14.53207352766724,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

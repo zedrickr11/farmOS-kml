@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>P PA PV V3-Sala de Venta Parma</name>
+      <styleUrl>#msn_ylw-pushpin21</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13248476380288,14.53202346719707,0 -91.13263399896907,14.53187102403521,0 -91.13255756825136,14.53183465010023,0 -91.13236244501462,14.53199610873924,0 -91.13226808110062,14.53197497082805,0 -91.13217571090489,14.53198985069094,0 -91.13215539564045,14.53212906436217,0 -91.13239996214367,14.53217426942978,0 -91.13248476380288,14.53202346719707,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

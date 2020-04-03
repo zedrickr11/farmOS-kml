@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark id="15634D5DD0126C57A5D2">
+      <name>A FA MD V2-Bodega Madera Finca</name>
+      <styleUrl>#msn_ylw-pushpin4</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13217068750491,14.52878172667141,0 -91.13219160018332,14.528686333648,0 -91.13211608085791,14.52867211823699,0 -91.13213628426206,14.52854375498869,0 -91.13181322969214,14.52848287266542,0 -91.13177303164603,14.52871088187515,0 -91.13207045715569,14.52876310055916,0 -91.13217068750491,14.52878172667141,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

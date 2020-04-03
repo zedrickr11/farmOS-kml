@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>P PA PL V2-Laboratorio</name>
+      <styleUrl>#msn_ylw-pushpin11</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13150881922869,14.53112823301095,0 -91.13149106158313,14.53131377103771,0 -91.13155310661023,14.53132248405307,0 -91.13157248413874,14.53113305583914,0 -91.13150881922869,14.53112823301095,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

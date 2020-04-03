@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark id="11634C1EE0126C57A5D8">
+      <name>C FS AD V2-Oficina administrativa No.1</name>
+      <styleUrl>#msn_ylw-pushpin32</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.1316491511178,14.53015789735653,0 -91.13159722076865,14.5301547488658,0 -91.13159470239751,14.53037272627011,0 -91.1316438194127,14.53037214606811,0 -91.1316491511178,14.53015789735653,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

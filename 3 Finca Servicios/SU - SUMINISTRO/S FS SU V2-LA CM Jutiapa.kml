@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>S FS SU V2-LA CM Jutiapa</name>
+      <styleUrl>#msn_ylw-pushpin311</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.12940682945394,14.52867666480377,0 -91.12943154735237,14.52864945136053,0 -91.12945991392947,14.52861518968424,0 -91.12939787372923,14.52856611075745,0 -91.12937488404253,14.52859788374916,0 -91.12939490843006,14.52861736939135,0 -91.12937122294285,14.52864720986129,0 -91.12940682945394,14.52867666480377,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

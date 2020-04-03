@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>A FG PS V1- Cercos Electricos Temporales</name>
+      <LookAt>
+        <longitude>-91.1344557557547</longitude>
+        <latitude>14.53464509611731</latitude>
+        <altitude>0</altitude>
+        <heading>-0.2277331042871492</heading>
+        <tilt>0</tilt>
+        <gx:fovy>30</gx:fovy>
+        <range>1235.256305037387</range>
+        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+      </LookAt>
+      <styleUrl>#msn_ylw-pushpin6210</styleUrl>
+      <Point>
+        <gx:drawOrder>1</gx:drawOrder>
+        <coordinates>-91.13458688245369,14.53667048355125,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

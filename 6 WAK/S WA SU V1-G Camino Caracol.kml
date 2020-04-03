@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>S WA SU V1-G Camino Caracol</name>
+      <styleUrl>#msn_ylw-pushpin111</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.12430990097397,14.51630150644741,0 -91.1248144846179,14.51589683193219,0 -91.12368059573249,14.51520151095465,0 -91.12368621468636,14.51533766032969,0 -91.1233026362255,14.51544452567675,0 -91.12324753439216,14.51526818400997,0 -91.12289295015012,14.51556936542682,0 -91.12291276849307,14.51591893622315,0 -91.12340635581965,14.51570028750582,0 -91.1239951694122,14.51600725133899,0 -91.12430990097397,14.51630150644741,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

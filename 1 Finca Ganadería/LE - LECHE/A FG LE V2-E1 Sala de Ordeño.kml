@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>A FG LE V2-E1 Sala de Ordeño</name>
+      <styleUrl>#msn_ylw-pushpin6211</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13303964547073,14.53334409079736,0 -91.13303713019816,14.53326200308054,0 -91.13288061529093,14.53327397404281,0 -91.13289018350669,14.53335681580826,0 -91.13303964547073,14.53334409079736,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>S FS SU V3-Interno Red D y Tablero</name>
+      <styleUrl>#msn_ylw-pushpin311</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13213025188446,14.53075029441945,0 -91.13206542700468,14.5306445824657,0 -91.13198712357813,14.53064076492358,0 -91.13198495014676,14.53065779372059,0 -91.13191607741781,14.53065247723866,0 -91.13190933968508,14.5307830375374,0 -91.13204650095435,14.53079599784516,0 -91.13213025188446,14.53075029441945,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

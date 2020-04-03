@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark id="122684D727126C57A5D7">
+      <name>A FA MI V1*-Apiario Monte Quina</name>
+      <styleUrl>#msn_ylw-pushpin8</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.26754997476709,14.5573548457882,0 -91.26773999282656,14.55697091574807,0 -91.26766318947652,14.55638797747097,0 -91.26713627516047,14.55609569361527,0 -91.26640928240117,14.55608916339342,0 -91.26599858531522,14.55682230094719,0 -91.26658195710137,14.55773118354717,0 -91.26754997476709,14.5573548457882,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

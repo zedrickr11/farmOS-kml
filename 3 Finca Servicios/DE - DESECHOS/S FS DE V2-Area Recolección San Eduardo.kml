@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>S FS DE V2-Area Recolección San Eduardo</name>
+      <styleUrl>#msn_ylw-pushpin3</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.14261594582663,14.54819951659503,0 -91.14253309036467,14.54790853035784,0 -91.14128814599196,14.5483330048434,0 -91.14183497795506,14.54863716228103,0 -91.14261594582663,14.54819951659503,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>S FS DE V2-Almacen / Bodega Industrial</name>
+      <styleUrl>#msn_ylw-pushpin3</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13163256371647,14.52847574230836,0 -91.1316546958594,14.52824557553262,0 -91.13149847723035,14.52823510192295,0 -91.13146924709642,14.52864942390046,0 -91.13176205197955,14.52862698720922,0 -91.13177388185927,14.52850751422961,0 -91.13163256371647,14.52847574230836,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

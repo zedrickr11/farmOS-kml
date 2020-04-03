@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark id="2D9D232A03126C57A5D7">
+      <name>A FA MI V2-Planta extraccion de Miel</name>
+      <styleUrl>#msn_ylw-pushpin12</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13249937766258,14.52866142433953,0 -91.13237951336578,14.52862558921088,0 -91.13234280322666,14.52880849794455,0 -91.13267215804838,14.52900219197107,0 -91.13249937766258,14.52866142433953,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

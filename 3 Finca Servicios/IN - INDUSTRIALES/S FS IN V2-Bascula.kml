@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark id="2DAA58B73A126C57A5DE">
+      <name>S FS IN V2-Bascula</name>
+      <styleUrl>#msn_ylw-pushpin30</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.1329028567595,14.53065130292998,0 -91.13289722841661,14.53064857476978,0 -91.13288751353561,14.53064715619394,0 -91.13290540315347,14.53064595350784,0 -91.13307308424433,14.5307673567518,0 -91.13351971627033,14.52943094662449,0 -91.13322558999279,14.52939767672836,0 -91.13318642587784,14.52968770962158,0 -91.1329028567595,14.53065130292998,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

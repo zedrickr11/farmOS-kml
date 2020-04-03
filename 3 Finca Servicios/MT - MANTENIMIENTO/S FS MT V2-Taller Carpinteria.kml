@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>S FS MT V2-Taller Carpinteria</name>
+      <styleUrl>#msn_ylw-pushpin31</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13158111063858,14.53119592885595,0 -91.13163574392172,14.53119563344127,0 -91.13164520681201,14.5310462463329,0 -91.13159556306498,14.53104545397107,0 -91.13158111063858,14.53119592885595,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

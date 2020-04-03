@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark id="2287993287126C57A5DA">
+      <name>C FS RE V2-Casa Patronal  No. 1</name>
+      <styleUrl>#msn_ylw-pushpin305</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13159259821353,14.5309001776949,0 -91.13155713392882,14.5308952029049,0 -91.13158209550967,14.53049002817627,0 -91.13132871009026,14.53049307524907,0 -91.13131022052319,14.53124500248079,0 -91.13149538247293,14.53125003048465,0 -91.13150635143725,14.53112369254521,0 -91.1315703219019,14.53113030646505,0 -91.13159259821353,14.5309001776949,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

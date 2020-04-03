@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark id="202D3130FF126C57A5D5">
+      <name>A FA MI V1-Apiario Miramar 1</name>
+      <styleUrl>#msn_ylw-pushpin8</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13663022928262,14.53308742282276,0 -91.13676810116252,14.53278489521834,0 -91.13661046202154,14.53242100689529,0 -91.13606684996955,14.53217537118242,0 -91.13562113542919,14.53244002417235,0 -91.13550143955032,14.5329697538346,0 -91.13576183630803,14.53333624757194,0 -91.1362500435207,14.53331958316465,0 -91.13663022928262,14.53308742282276,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>S FS SU V2-LA CM Canada 1</name>
+      <styleUrl>#msn_ylw-pushpin311</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.1295891028325,14.528370907852,0 -91.12959239837922,14.52830385843939,0 -91.12951000271502,14.52828916744601,0 -91.12950340361071,14.52835697602383,0 -91.1295891028325,14.528370907852,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

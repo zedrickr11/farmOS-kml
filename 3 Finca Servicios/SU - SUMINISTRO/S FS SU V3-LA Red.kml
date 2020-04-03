@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>S FS SU V3-LA Red</name>
+      <styleUrl>#msn_ylw-pushpin311</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.12955842215858,14.52851094799369,0 -91.12947526932014,14.52857463936802,0 -91.12952183191238,14.52864271411243,0 -91.12944307039676,14.52869924226691,0 -91.13029507637546,14.52943004426118,0 -91.13190308577074,14.53075564319659,0 -91.13191095748536,14.5306166352862,0 -91.13055506216305,14.52915318062598,0 -91.12955842215858,14.52851094799369,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

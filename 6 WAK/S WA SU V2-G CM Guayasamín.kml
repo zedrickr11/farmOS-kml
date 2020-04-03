@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>S WA SU V2-G CM Guayasamín</name>
+      <styleUrl>#msn_ylw-pushpin111</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.12349113134724,14.51537454867826,0 -91.1234687047309,14.5152326859016,0 -91.12326749900723,14.51527449361368,0 -91.12332013345399,14.51541416419429,0 -91.12349113134724,14.51537454867826,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

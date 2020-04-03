@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>S FS CA V2-SJ Conduc Aereo y Beneficio</name>
+      <styleUrl>#msn_ylw-pushpin6</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13207492187976,14.53307079814978,0 -91.1317175872164,14.53229360161385,0 -91.13158313716579,14.53222974686761,0 -91.13139744654924,14.53221113538873,0 -91.131238011633,14.53223386154269,0 -91.13145855656114,14.53263922650974,0 -91.13177131181763,14.53305748187991,0 -91.13194666070588,14.53315450754739,0 -91.13208652691831,14.53339985142476,0 -91.13212065752158,14.53338382646251,0 -91.13207492187976,14.53307079814978,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

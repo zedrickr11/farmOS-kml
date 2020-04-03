@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark id="2B97B88D54126C57A5CF">
+      <name>A FA CA V2-SJM Patio</name>
+      <styleUrl>#msn_ylw-pushpin</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13176503568536,14.53093371268651,0 -91.13175962085805,14.53097858611899,0 -91.13179896071479,14.53098377727732,0 -91.13180426897831,14.53086851214859,0 -91.13189523780375,14.53087546336383,0 -91.13191995454171,14.5304261082965,0 -91.13165321878508,14.53039302507797,0 -91.13161421285422,14.53088104658716,0 -91.13170635393757,14.5308866520459,0 -91.13170253757055,14.53092648693561,0 -91.13176503568536,14.53093371268651,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

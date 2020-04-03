@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>A FG LE V2-E1 Galera Bodega</name>
+      <styleUrl>#msn_ylw-pushpin6211</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13265862575741,14.53320673718739,0 -91.13251643805516,14.53323206674986,0 -91.13261214411583,14.53361812840223,0 -91.13300065656482,14.53394835676868,0 -91.1330933678607,14.53383384212754,0 -91.13273707100355,14.53359729136026,0 -91.13265862575741,14.53320673718739,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

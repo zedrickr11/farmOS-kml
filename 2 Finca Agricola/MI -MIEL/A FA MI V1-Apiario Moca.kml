@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark id="13DCAAC628126C57A5D6">
+      <name>A FA MI V1*-Apiario Moca</name>
+      <styleUrl>#msn_ylw-pushpin8</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.23887219271691,14.51247104282622,0 -91.23946315983895,14.51211288320401,0 -91.23966729416537,14.51160771201133,0 -91.23964186748996,14.5111480908845,0 -91.23924222718945,14.51058130074731,0 -91.23853643075286,14.51035277096578,0 -91.23769347293576,14.51066619281845,0 -91.237500571326,14.51137650412745,0 -91.23758938994068,14.51201097472493,0 -91.23811373992122,14.51242643927349,0 -91.23887219271691,14.51247104282622,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

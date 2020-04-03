@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark id="3305F4C57B126C57A5CE">
+      <name>A FA CA V2-Q Galera Secado</name>
+      <styleUrl>#msn_ylw-pushpin</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.12934916595346,14.53026979007429,0 -91.12924100109689,14.53029616170306,0 -91.12929104643756,14.53046294232707,0 -91.12938843308564,14.53045033574852,0 -91.12934916595346,14.53026979007429,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

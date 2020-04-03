@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>A FG LE V2-E1 Galera Capacititación</name>
+      <styleUrl>#msn_ylw-pushpin6211</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13329385539845,14.53242848897424,0 -91.13317120126634,14.53243081338487,0 -91.13317759336117,14.53258772680671,0 -91.13311468020567,14.53258557946512,0 -91.13312621579618,14.53287945052251,0 -91.13318452449785,14.53288413310023,0 -91.13330320811693,14.53289052257412,0 -91.13329385539845,14.53242848897424,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

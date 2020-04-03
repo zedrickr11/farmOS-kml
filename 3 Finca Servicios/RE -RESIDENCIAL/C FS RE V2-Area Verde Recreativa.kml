@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark id="0C5FA5F178126C57A5DA">
+      <name>C FS RE V2-Area Verde Recreativa</name>
+      <styleUrl>#msn_ylw-pushpin305</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.1321881599177,14.52852041281144,0 -91.13226751417928,14.52769071391626,0 -91.13174455800704,14.52761862250409,0 -91.13165744635317,14.52845783885733,0 -91.1321881599177,14.52852041281144,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark id="2D0DA0412E126C57A5DD">
+      <name>C FS RE V2-C Santa Clara</name>
+      <styleUrl>#msn_ylw-pushpin305</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.1369887729538,14.53038996147336,0 -91.13708360800457,14.52968372742923,0 -91.13655768029747,14.52965018038111,0 -91.13646012255879,14.53023074862948,0 -91.1369887729538,14.53038996147336,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

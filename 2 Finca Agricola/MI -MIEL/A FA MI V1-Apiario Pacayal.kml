@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark id="3D5BB9A371126C57A5D6">
+      <name>A FA MI V1*-Apiario Pacayal</name>
+      <styleUrl>#msn_ylw-pushpin8</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.0621694708189,14.51806121605637,0 -91.06259481492314,14.51747410701843,0 -91.06236494087952,14.51686258960802,0 -91.06175859863069,14.51666559505892,0 -91.06115843841155,14.51706666012987,0 -91.06120582548684,14.51771474149036,0 -91.06154528811464,14.51811450940411,0 -91.0621694708189,14.51806121605637,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

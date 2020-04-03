@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>A FG LE V2-E1 Galera Alimento</name>
+      <styleUrl>#msn_ylw-pushpin6211</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13336735209049,14.53301518663297,0 -91.13327288614711,14.53301743699156,0 -91.13326009628047,14.53326680488721,0 -91.13331189902921,14.53332171376778,0 -91.13337675795006,14.53333059346047,0 -91.13336735209049,14.53301518663297,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

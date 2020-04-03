@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>S FS CA V1-SL Recol/Conduc Potabl Planta</name>
+      <styleUrl>#msn_ylw-pushpin6</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13796488687352,14.53912184326169,0 -91.13806278443673,14.53914464590703,0 -91.1365881901955,14.5378921526378,0 -91.13516907315936,14.53580450310403,0 -91.13409789746619,14.534557603622,0 -91.13324063219136,14.53325958981028,0 -91.132171285334,14.53333874151109,0 -91.13218082198988,14.53338389847366,0 -91.13321178458719,14.53332065037429,0 -91.13408127752317,14.53461072115826,0 -91.13512021021151,14.53583359655227,0 -91.13654366057497,14.53792361339089,0 -91.13796488687352,14.53912184326169,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

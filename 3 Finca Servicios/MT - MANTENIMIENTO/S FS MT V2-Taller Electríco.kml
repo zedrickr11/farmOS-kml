@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>S FS MT V2-Taller Electríco</name>
+      <styleUrl>#msn_ylw-pushpin31</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13185180764032,14.53110467945867,0 -91.13186710306903,14.53098059883079,0 -91.13187944553904,14.53098039909597,0 -91.13188796622909,14.53088222066988,0 -91.13180995947923,14.53087362756557,0 -91.1318041896219,14.53098424289592,0 -91.13176342730061,14.53098490255357,0 -91.13175325648696,14.53109642213223,0 -91.13185180764032,14.53110467945867,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

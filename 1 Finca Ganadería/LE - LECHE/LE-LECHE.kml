@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>A FG LE V2-E1 Establos General</name>
+      <styleUrl>#msn_ylw-pushpin6211</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.1332126690245,14.53347338464335,0 -91.13317746048621,14.53304071392981,0 -91.13285906756064,14.53305911148633,0 -91.13286378455562,14.53319349855045,0 -91.13287927251427,14.53326234789818,0 -91.13304704935398,14.53325487882855,0 -91.1330498297704,14.53334703691042,0 -91.13289320949161,14.53336427012422,0 -91.13290096884863,14.53349624372074,0 -91.1332126690245,14.53347338464335,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A FG LE V2-E1 Galera Alimento</name>
+      <styleUrl>#msn_ylw-pushpin6211</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13336735209049,14.53301518663297,0 -91.13327288614711,14.53301743699156,0 -91.13326009628047,14.53326680488721,0 -91.13331189902921,14.53332171376778,0 -91.13337675795006,14.53333059346047,0 -91.13336735209049,14.53301518663297,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A FG LE V2-E1 Galera Capacititación</name>
+      <styleUrl>#msn_ylw-pushpin6211</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13329385539845,14.53242848897424,0 -91.13317120126634,14.53243081338487,0 -91.13317759336117,14.53258772680671,0 -91.13311468020567,14.53258557946512,0 -91.13312621579618,14.53287945052251,0 -91.13318452449785,14.53288413310023,0 -91.13330320811693,14.53289052257412,0 -91.13329385539845,14.53242848897424,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A FG LE V2-E1 Galera Chivera</name>
+      <styleUrl>#msn_ylw-pushpin6211</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13346701175571,14.53255787390097,0 -91.13330878611845,14.53256829026824,0 -91.13331683451885,14.53291499899359,0 -91.1333874944911,14.53292081097298,0 -91.13348938475451,14.53273486122567,0 -91.13346701175571,14.53255787390097,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A FG LE V2-E1 Galera Estiercoleras</name>
+      <styleUrl>#msn_ylw-pushpin6211</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13339830184952,14.53292521968037,0 -91.13335088593449,14.5329218703427,0 -91.13333584141421,14.53300485886287,0 -91.1333726958825,14.53300571439143,0 -91.13338355098402,14.53315868790737,0 -91.13340830500175,14.53315363681758,0 -91.13339581205292,14.53300220197938,0 -91.13339830184952,14.53292521968037,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A FG LE V2-E1 Galera Bodega</name>
+      <styleUrl>#msn_ylw-pushpin6211</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13265862575741,14.53320673718739,0 -91.13251643805516,14.53323206674986,0 -91.13261214411583,14.53361812840223,0 -91.13300065656482,14.53394835676868,0 -91.1330933678607,14.53383384212754,0 -91.13273707100355,14.53359729136026,0 -91.13265862575741,14.53320673718739,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A FG LE V2-E1 Potreros Secos</name>
+      <styleUrl>#msn_ylw-pushpin6211</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13346906818073,14.53370002958201,0 -91.13327836940519,14.53392461188706,0 -91.13322864668098,14.53396046450504,0 -91.13318104314882,14.53390094158998,0 -91.13311029351775,14.53395671852969,0 -91.13322364208696,14.53423239339381,0 -91.13350877449311,14.53442896601714,0 -91.13315465334456,14.53462584709064,0 -91.13326688768281,14.53487862661503,0 -91.13340578963953,14.5350621717587,0 -91.1337385097747,14.53486133707017,0 -91.13364543539889,14.53473671507388,0 -91.13349102848936,14.5347189768674,0 -91.1337698198337,14.53445218068172,0 -91.13399713894059,14.53459545097524,0 -91.1340497086195,14.53456128782967,0 -91.13346906818073,14.53370002958201,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A FG LE V2-E1 Sala de Ordeño</name>
+      <styleUrl>#msn_ylw-pushpin6211</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13303964547073,14.53334409079736,0 -91.13303713019816,14.53326200308054,0 -91.13288061529093,14.53327397404281,0 -91.13289018350669,14.53335681580826,0 -91.13303964547073,14.53334409079736,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A FG LE V2-E2 Esablos General</name>
+      <styleUrl>#msn_ylw-pushpin6211</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13599517014093,14.53412795656364,0 -91.13581230217763,14.53406333379982,0 -91.13549767953657,14.53433265724767,0 -91.13591503157411,14.53548966406446,0 -91.13677352087178,14.53531331649333,0 -91.13680261053233,14.53525049808801,0 -91.13653631772958,14.53523883395408,0 -91.13622073880542,14.5349288460981,0 -91.13610212792331,14.53495015498058,0 -91.13586556854942,14.53465282169885,0 -91.13595871377055,14.53457850084764,0 -91.13624290403827,14.53485205404614,0 -91.13651223826778,14.53460529294948,0 -91.13599517014093,14.53412795656364,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A FG LE V2-E2 Sala de Ordeño</name>
+      <styleUrl>#msn_ylw-pushpin6211</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13596376711348,14.5345918407809,0 -91.13589331991804,14.53464800319837,0 -91.13613488715352,14.5349101773291,0 -91.13619865409538,14.53483805783381,0 -91.13596376711348,14.5345918407809,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

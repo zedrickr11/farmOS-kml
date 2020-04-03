@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark id="2C4E5559D6126C57A5D6">
+      <name>A FA MI V1*-Apiario Monte de Oro</name>
+      <styleUrl>#msn_ylw-pushpin8</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.24479393885494,14.54480192706204,0 -91.24506058326995,14.54460686826343,0 -91.24534840402647,14.54442514098136,0 -91.24531335225527,14.54381323042441,0 -91.24490792067188,14.54348422495891,0 -91.24424161994503,14.54366814970448,0 -91.24400378110704,14.5440702066247,0 -91.24401356819027,14.54453722509101,0 -91.24443052239931,14.54482120879367,0 -91.24479393885494,14.54480192706204,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

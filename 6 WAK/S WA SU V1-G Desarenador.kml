@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark>
+      <name>S WA SU V1-G Desarenador</name>
+      <styleUrl>#msn_ylw-pushpin111</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.12945526809244,14.52965662910002,0 -91.12956919996125,14.52959781631968,0 -91.12955173397988,14.52951011599489,0 -91.12912282426532,14.52922853114905,0 -91.12894675429526,14.52932074017998,0 -91.12903043418555,14.52938649301945,0 -91.12913964373524,14.52945917973499,0 -91.12945526809244,14.52965662910002,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
