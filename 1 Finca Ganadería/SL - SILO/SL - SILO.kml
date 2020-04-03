@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark id="09690F3A91127161D605">
+      <name>A FG SL V2-E1 Silo de concreto 1</name>
+      <styleUrl>#msn_ylw-pushpin62100</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13324587955583,14.53353500292273,0 -91.1331757548776,14.53354181618717,0 -91.13334069922202,14.53374108372244,0 -91.13338940675681,14.53370344383223,0 -91.13329859552761,14.53360044424325,0 -91.13324587955583,14.53353500292273,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="0C68D593A9127161D62B">
+      <name>A FG SL V2-E1 Silo de concreto 2</name>
+      <styleUrl>#msn_ylw-pushpin62100</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13325697160306,14.53374685589826,0 -91.13330306884701,14.53370670235881,0 -91.13315846340198,14.5335204432467,0 -91.13307446459243,14.53353098123905,0 -91.13325697160306,14.53374685589826,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="1D3BDDF3CF127161D62B">
+      <name>A FG SL V2-E1 Silo de concreto 3</name>
+      <styleUrl>#msn_ylw-pushpin62100</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13307744357763,14.53354572831391,0 -91.13291017935381,14.53354578119638,0 -91.13313418139033,14.53378311318357,0 -91.13323033300173,14.53371872035958,0 -91.13307744357763,14.53354572831391,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="229E679184127161D62B">
+      <name>A FG SL V2-E1 Silo de suelo 1</name>
+      <styleUrl>#msn_ylw-pushpin62100</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13305091142908,14.53207352766724,0 -91.13303600899454,14.5322804317657,0 -91.13318816238228,14.53228659540033,0 -91.13320064114185,14.53208759798256,0 -91.13305091142908,14.53207352766724,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="32ADB3EA57127161D62B">
+      <name>A FG SL V2-E1 Silo de suelo 2</name>
+      <styleUrl>#msn_ylw-pushpin62100</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.1330443071753,14.53206966561469,0 -91.13294686912809,14.53206937011323,0 -91.13293252155422,14.53227051109699,0 -91.13303089533758,14.53227788014157,0 -91.1330443071753,14.53206966561469,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="04BB94CD7C127161D62C">
+      <name>A FG SL V2-E1 Silo de suelo 3</name>
+      <styleUrl>#msn_ylw-pushpin62100</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13293605477064,14.53210513981518,0 -91.13287313725345,14.53209660615762,0 -91.1328698338301,14.53227087284096,0 -91.13291989201244,14.5322711786148,0 -91.13293605477064,14.53210513981518,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="1CA031D092127161D62C">
+      <name>A FG SL V2-E1 Silo de suelo 1</name>
+      <styleUrl>#msn_ylw-pushpin62100</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13286391690356,14.5321061802428,0 -91.13280247458958,14.5321004536584,0 -91.13280481978674,14.53227308544521,0 -91.13286208150363,14.53227091730875,0 -91.13286391690356,14.5321061802428,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="2A1DE73A6C127161D62C">
+      <name>A FG SL V2-E2 Silo de concreto 1</name>
+      <styleUrl>#msn_ylw-pushpin62100</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13647398156694,14.53468474615544,0 -91.13644913193829,14.53472874268302,0 -91.13658266569162,14.53486292648492,0 -91.13663109018418,14.53483247079697,0 -91.13647398156694,14.53468474615544,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="3BAC1012CE127161D62C">
+      <name>A FG SL V2-E2 Silo de concreto 2</name>
+      <styleUrl>#msn_ylw-pushpin62100</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13642629998954,14.53473004956367,0 -91.13638515745326,14.53477829826446,0 -91.13652399169943,14.53490783109097,0 -91.13657436866548,14.53487616813422,0 -91.13642629998954,14.53473004956367,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="0C4A7DE685127161D62D">
+      <name>A FG SL V2-E2 Silo de concreto 3</name>
+      <styleUrl>#msn_ylw-pushpin62100</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.1363881143791,14.53478839243648,0 -91.13634310413777,14.53482904694937,0 -91.13646479416404,14.53495509551338,0 -91.13651391925558,14.53491916097967,0 -91.1363881143791,14.53478839243648,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="1FD984B5DF127161D62D">
+      <name>A FG SL V2-E2 Silo de concreto 4</name>
+      <styleUrl>#msn_ylw-pushpin62100</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13632637784254,14.53482178537782,0 -91.13628013101967,14.53487174446096,0 -91.13641838913696,14.53501240380704,0 -91.13646851456667,14.53496638825047,0 -91.13632637784254,14.53482178537782,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="21D968025C127161D62D">
+      <name>A FG SL V2-E2 Silo de concreto 5</name>
+      <styleUrl>#msn_ylw-pushpin62100</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13627693473612,14.53488267789512,0 -91.13623788343712,14.53492292155946,0 -91.13638525445896,14.53506609828983,0 -91.13642772148449,14.53503383721495,0 -91.13627693473612,14.53488267789512,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="0600AF3F2E127161D62E">
+      <name>A FG SL V2-E2 Silo de suelo 1</name>
+      <styleUrl>#msn_ylw-pushpin62100</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13647737036551,14.53515742991526,0 -91.13654318087802,14.53523078112257,0 -91.13677648674461,14.53504635831782,0 -91.13671456147009,14.53495525103495,0 -91.13647737036551,14.53515742991526,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="1E0462F391127161D62E">
+      <name>A FG SL V2-E2 Silo de suelo 2</name>
+      <styleUrl>#msn_ylw-pushpin62100</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13671380858898,14.53495086162167,0 -91.1366501930834,14.53487309762203,0 -91.13641081312461,14.53507943547313,0 -91.13646663617025,14.53514546529085,0 -91.13671380858898,14.53495086162167,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

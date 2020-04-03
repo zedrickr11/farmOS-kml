@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark id="11634C1EE0126C57A5D8">
+      <name>C FS AD V2-Oficina administrativa No.1</name>
+      <styleUrl>#msn_ylw-pushpin32</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.1316491511178,14.53015789735653,0 -91.13159722076865,14.5301547488658,0 -91.13159470239751,14.53037272627011,0 -91.1316438194127,14.53037214606811,0 -91.1316491511178,14.53015789735653,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="2DB13F40DC126C57A5D8">
+      <name>C FS AD V2-Oficina administrativa No.2</name>
+      <styleUrl>#msn_ylw-pushpin32</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13189441641703,14.53012842598696,0 -91.13191111012972,14.53001474888917,0 -91.13207840874847,14.53005504319281,0 -91.13208855670027,14.52998811958384,0 -91.13202186522487,14.52997159097571,0 -91.13199430901854,14.52994910602243,0 -91.13198276650841,14.5299409112631,0 -91.13183990673755,14.52992064727991,0 -91.13183934288155,14.52996778196924,0 -91.1317989106125,14.52996799974412,0 -91.13179425869421,14.53002031565964,0 -91.13165276063502,14.53000508667006,0 -91.13164932271454,14.53008412683584,0 -91.13171501307654,14.53011415042539,0 -91.13189441641703,14.53012842598696,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="0CD0DE0549126C57A5D9">
+      <name>C FS AD V2-Oficina RRHH</name>
+      <styleUrl>#msn_ylw-pushpin32</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13276762410676,14.53022813540783,0 -91.13273649665764,14.53010038985953,0 -91.13249263356325,14.53012935105166,0 -91.1325238251178,14.53030019358756,0 -91.13256234098191,14.53029313967809,0 -91.13255715491096,14.53027370523312,0 -91.13258131266186,14.530270223786,0 -91.13258926139946,14.53030500331554,0 -91.13272008996488,14.53029058597887,0 -91.13276762410676,14.53022813540783,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+  </Document>
+</kml>

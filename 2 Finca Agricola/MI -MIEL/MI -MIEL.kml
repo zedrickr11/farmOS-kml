@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns = "http://earth.google.com/kml/2.1">
+  <Document>
+    <Placemark id="202D3130FF126C57A5D5">
+      <name>A FA MI V1-Apiario Miramar 1</name>
+      <styleUrl>#msn_ylw-pushpin8</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13663022928262,14.53308742282276,0 -91.13676810116252,14.53278489521834,0 -91.13661046202154,14.53242100689529,0 -91.13606684996955,14.53217537118242,0 -91.13562113542919,14.53244002417235,0 -91.13550143955032,14.5329697538346,0 -91.13576183630803,14.53333624757194,0 -91.1362500435207,14.53331958316465,0 -91.13663022928262,14.53308742282276,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="3CF0AE8886126C57A5D5">
+      <name>A FA MI V1-Apiario Miramar 2</name>
+      <styleUrl>#msn_ylw-pushpin8</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.15266666214637,14.5556544520416,0 -91.15302588825901,14.55532442669318,0 -91.15311939700004,14.55490569233663,0 -91.15275503709113,14.55458450793334,0 -91.15228624369192,14.55454839656732,0 -91.15194405671345,14.55495551127915,0 -91.15213944530898,14.55543613691445,0 -91.15266666214637,14.5556544520416,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="089453436B126C57A5D6">
+      <name>A FA MI V1*-Apiario Cocales</name>
+      <styleUrl>#msn_ylw-pushpin8</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.19215802566795,14.39875963491743,0 -91.19249387970463,14.3983047093487,0 -91.19242464142836,14.39785701984912,0 -91.19207135748977,14.39748297603841,0 -91.1916283795768,14.39723706245111,0 -91.19118381261936,14.39738377086302,0 -91.19082727659961,14.39778914531625,0 -91.19083219729809,14.39835923592151,0 -91.19119233963724,14.39883394066559,0 -91.1917106594522,14.39899835736912,0 -91.19215802566795,14.39875963491743,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="13DCAAC628126C57A5D6">
+      <name>A FA MI V1*-Apiario Moca</name>
+      <styleUrl>#msn_ylw-pushpin8</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.23887219271691,14.51247104282622,0 -91.23946315983895,14.51211288320401,0 -91.23966729416537,14.51160771201133,0 -91.23964186748996,14.5111480908845,0 -91.23924222718945,14.51058130074731,0 -91.23853643075286,14.51035277096578,0 -91.23769347293576,14.51066619281845,0 -91.237500571326,14.51137650412745,0 -91.23758938994068,14.51201097472493,0 -91.23811373992122,14.51242643927349,0 -91.23887219271691,14.51247104282622,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="2C4E5559D6126C57A5D6">
+      <name>A FA MI V1*-Apiario Monte de Oro</name>
+      <styleUrl>#msn_ylw-pushpin8</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.24479393885494,14.54480192706204,0 -91.24506058326995,14.54460686826343,0 -91.24534840402647,14.54442514098136,0 -91.24531335225527,14.54381323042441,0 -91.24490792067188,14.54348422495891,0 -91.24424161994503,14.54366814970448,0 -91.24400378110704,14.5440702066247,0 -91.24401356819027,14.54453722509101,0 -91.24443052239931,14.54482120879367,0 -91.24479393885494,14.54480192706204,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="3D5BB9A371126C57A5D6">
+      <name>A FA MI V1*-Apiario Pacayal</name>
+      <styleUrl>#msn_ylw-pushpin8</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.0621694708189,14.51806121605637,0 -91.06259481492314,14.51747410701843,0 -91.06236494087952,14.51686258960802,0 -91.06175859863069,14.51666559505892,0 -91.06115843841155,14.51706666012987,0 -91.06120582548684,14.51771474149036,0 -91.06154528811464,14.51811450940411,0 -91.0621694708189,14.51806121605637,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="0F453F1451126C57A5D7">
+      <name>A FA MI V1*-Apiario Santa Emilia</name>
+      <styleUrl>#msn_ylw-pushpin8</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.03895896754614,14.5161750415842,0 -91.0392145294513,14.51593323594612,0 -91.03917747716308,14.51532018835955,0 -91.03867327962618,14.51502217324322,0 -91.03836212070355,14.51499404288765,0 -91.03797378636287,14.51520401145897,0 -91.03775702259489,14.51574970869655,0 -91.0380690708491,14.51619123672023,0 -91.03851573910156,14.51633407250354,0 -91.03895896754614,14.5161750415842,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="122684D727126C57A5D7">
+      <name>A FA MI V1*-Apiario Monte Quina</name>
+      <styleUrl>#msn_ylw-pushpin8</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.26754997476709,14.5573548457882,0 -91.26773999282656,14.55697091574807,0 -91.26766318947652,14.55638797747097,0 -91.26713627516047,14.55609569361527,0 -91.26640928240117,14.55608916339342,0 -91.26599858531522,14.55682230094719,0 -91.26658195710137,14.55773118354717,0 -91.26754997476709,14.5573548457882,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="2D9D232A03126C57A5D7">
+      <name>A FA MI V2-Planta extraccion de Miel</name>
+      <styleUrl>#msn_ylw-pushpin12</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -91.13249937766258,14.52866142433953,0 -91.13237951336578,14.52862558921088,0 -91.13234280322666,14.52880849794455,0 -91.13267215804838,14.52900219197107,0 -91.13249937766258,14.52866142433953,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
